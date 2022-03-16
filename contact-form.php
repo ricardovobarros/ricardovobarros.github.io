@@ -1,3 +1,7 @@
+<html>
+<body>
+
+
 <?php 
 if ($_POST){
 	$name = $_POST["name"];
@@ -12,3 +16,6 @@ if ($_POST){
 }
 else {echo "<p> Somethinng went wrong</p>"}
 ?>
+
+</body>
+</html>
